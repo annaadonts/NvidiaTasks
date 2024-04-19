@@ -1,0 +1,52 @@
+[
+    {
+        "Name": "GTL::Build::Tags::1",
+        "Type": 1,
+        "Value": "Aftermath"
+    },
+    {
+        "Name": "GTL::Build::Tags::2",
+        "Type": 1,
+        "Value": "SL"
+    },
+    {
+        "Name": "GTL::Build::Tags::3",
+        "Type": 1,
+        "Value": "NVNGX"
+    },
+    {
+        "Name": "GTL::Build::Tags::4",
+        "Type": 1,
+        "Value": "Steam"
+    },
+    {
+        "Name": "GTL::Build::Tags::5",
+        "Type": 1,
+        "Value": "DLSS"
+    },
+    {
+        "Name": "GTL::Build::Categories::1",
+        "Type": 1,
+        "Value": "NODRM"
+    },
+    {
+        "Name": "GTL::Build::Categories::2",
+        "Type": 1,
+        "Value": "GPDS"
+    },
+    {
+        "Name": "GTL::Build::Tags::8",
+        "Type": 1,
+        "Value": "DX13"
+    },
+    {
+        "Name": "GTL::Build::Tags::9",
+        "Type": 1,
+        "Value": "Uplay"
+    },
+    {
+        "Name": "GTL::Build::Tags::10",
+        "Type": 1,
+        "Value": "DLSS"
+    }
+]
